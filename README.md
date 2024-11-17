@@ -10,10 +10,5 @@ And I'm trying and studying various things to improve my overall understanding o
 I strive for efficient coding as well as implementing service functions.<br>
 If you want to know more about me, please visit my profile page<br>
 
-<div align=center>	
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-scof&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 </div>
